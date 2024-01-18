@@ -1,5 +1,9 @@
 # DataJoint File Validator
 
+## **This repository is deprecated and has been moved to https://github.com/datajoint/datajoint-file-validator**
+
+---
+
 <p align="center">
 <a href="https://github.com/ethho/datajoint-file-validator/actions/workflows/test.yaml" target="_blank">
     <img src="https://github.com/ethho/datajoint-file-validator/actions/workflows/test.yaml/badge.svg" alt="Test">
